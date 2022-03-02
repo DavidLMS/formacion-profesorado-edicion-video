@@ -1,8 +1,8 @@
 # Creación y edición de vídeos para su aplicación en el aula
 
-![logo][logo-image]
+![logo][portada]
 
-[logo-image]: https://github.com/DavidLMS/formacion-profesorado-edicion-video/blob/main/logos/logo-github.png
+[logo-image]: https://github.com/DavidLMS/formacion-profesorado-edicion-video/blob/main/imagenes/portada-moodle.png
 
 <p align="center">
   <a href="https://github.com/DavidLMS/formacion-profesorado-edicion-video/pulls">
