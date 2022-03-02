@@ -18,7 +18,9 @@ Repositorio para alojar los materiales del curso "Creación y edición de vídeo
 Esta obra está bajo una
 [Licencia Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa].
 
-<p align="center">[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]</p>
+<p align="center"> <a href="http://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="BY-SA">
+  </a> </p>
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
