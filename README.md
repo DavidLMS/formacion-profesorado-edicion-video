@@ -2,7 +2,7 @@
 
 ![logo][portada]
 
-[portada]: https://github.com/DavidLMS/formacion-profesorado-edicion-video/blob/main/imagenes/portada-moodle.png
+[portada]: https://github.com/DavidLMS/formacion-profesorado-edicion-video/blob/main/imagenes/portada-moodle.png?raw=true
 
 <p align="center">
   <a href="https://github.com/DavidLMS/formacion-profesorado-edicion-video/pulls">
