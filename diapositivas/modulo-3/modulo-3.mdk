@@ -1,0 +1,12 @@
+[INCLUDE=presentation]
+Title         : ![logo]
+Sub Title     : Módulo 3
+Author        : David Romero
+Affiliation   : CEP de Cádiz
+Email         : hola@davidlms.com
+Reveal Theme  : simple
+Beamer Theme  : singapore
+
+[logo]: imagenes/claqueta-abierta-transparente.png "logo" { width:auto; max-width:30% }
+
+[TITLE]
