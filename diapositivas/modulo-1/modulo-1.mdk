@@ -9,6 +9,16 @@ Beamer Theme  : singapore
 
 [logo]: imagenes/claqueta-abierta-transparente.png "logo" { width:auto; max-width:30% }
 
+<style>
+.reveal .controls div.navigate-down, .reveal .controls div.navigate-down.enabled {border-top-color: black;}
+.reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled {border-left-color: black;}
+.reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled:hover {border-left-color: grey;}
+.reveal .controls div.navigate-up, .reveal .controls div.navigate-up.enabled {border-bottom-color: black;}
+.reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled {border-right-color: black;}
+.reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled:hover {border-right-color: grey;}
+.reveal .slide-number {color: black;}
+</style>
+
 [TITLE]
 
 ## ¿Qué es un vídeo?
@@ -121,6 +131,6 @@ No confundir códec con contenedor
 
 ~ Center {margin-top: 10%;}
 
-La que cumpla con tus necesidades
+Cualquiera que se adapte a las necesidades de tu proyecto
 
 ~
