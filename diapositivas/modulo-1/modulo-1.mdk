@@ -10,3 +10,117 @@ Beamer Theme  : singapore
 [logo]: imagenes/claqueta-abierta-transparente.png "logo" { width:auto; max-width:30% }
 
 [TITLE]
+
+## ¿Qué es un vídeo?
+
+## 
+
+![gif-video-imagenes]
+[gif-video-imagenes]: imagenes/race_horse_animated.gif "Vídeo en movimiento" { width:100%; max-width:200% }
+
+## FPS
+
+- Número de imágenes por segundo
+
+- Nuestro cerebro interpreta movimiento a partir de 12
+
+- **24fps** → Estándar en el cine (en el antiguo era menor)
+
+- **25fps** → Sistema PAL Europeo
+
+- **29,97fps** → Sistema NTSC Americano
+
+- **60fps** → ¿Nuevo estándar? Admitido en Youtube
+
+- **120fps** → Cámara lenta
+
+~ Center
+[The History of Frame Rate for Film](https://www.youtube.com/watch?v=mjYjFEp9Yx0)
+~
+
+## Edición en capas
+
+~ Center
+![gif-video-imagenes2]
+[gif-video-imagenes2]: imagenes/layer1.jpg "Vídeo en movimiento" { width:auto; max-width:35% }
+
+![gif-video-imagenes1]
+[gif-video-imagenes1]: imagenes/layer2.jpg "Vídeo en movimiento" { width:auto; max-width:35% }
+
+~
+
+~ Center { font-size: 50% }
+[Fuente: getpaint.net](https://www.getpaint.net/doc/latest/WorkingWithLayers.html)
+~
+
+## Formatos de vídeo
+
+
+~ Center {margin-top: 10%;}
+
+No confundir códec con contenedor
+
+~
+
+
+## Códecs de vídeo más utilizados
+
+- **Divx**
+
+- **Xvid**
+
+- **MPEG-1** y **MPEG-2**
+
+- **VP8** y **VP9**
+
+- **h.264** (MPEG-4 parte 10)
+
+- **h.265** (HEVC - MPEG-H parte 2)
+
+- **AV1** → ¿El futuro ganador?
+
+~ Center
+[Comparativa de códecs de vídeo](https://en.wikipedia.org/wiki/Comparison_of_video_container_formats#Video_coding_formats_support)
+~
+
+## Contenedores más comunes
+
+- **AVI** (Estándar de Windows)
+
+- **MOV** (QuickTime de Apple)
+
+- **MP4** (Estándar para MPEG-4)
+
+- **MKV** (Matroska, estándar abierto)
+
+- **WebM** (Google, estándar abierto)
+
+~ Center
+[Comparativa de contenedores de vídeo](https://en.wikipedia.org/wiki/Comparison_of_video_container_formats#General_information)
+~
+
+## Herramientas de edición para el escritorio
+
+- Kdenlive
+
+- Openshot
+
+- Shotcut
+
+- Especial mención: DaVinci Resolve
+
+## Herramientas de edición para móviles
+
+- CapCut
+
+- Quik
+
+- VN
+
+## ¿Cuál es la mejor herramienta?
+
+~ Center {margin-top: 10%;}
+
+La que cumpla con tus necesidades
+
+~
