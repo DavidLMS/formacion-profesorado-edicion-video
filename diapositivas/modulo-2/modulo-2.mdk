@@ -41,35 +41,35 @@ Beamer Theme  : singapore
 
 ~ Center
 ![dispositivo]
-[dispositivo]: imagenes/dispositivo.jpg "Conoce tu dispositivo" { width:auto; max-width:100% }
+[dispositivo]: imagenes/dispositivo.jpg "Conoce tu dispositivo" { width:auto; max-width:80% }
 ~
 
 ## 2. Programa la sesión
 
 ~ Center
 ![planifica]
-[planifica]: imagenes/planifica.jpg "Programa la sesión" { width:auto; max-width:100% }
+[planifica]: imagenes/planifica.jpg "Programa la sesión" { width:auto; max-width:80% }
 ~
 
 ## 3. Siempre en horizontal
 
 ~ Center
 ![horizontal]
-[horizontal]: imagenes/horizontal.jpg "Siempre en horizontal" { width:auto; max-width:100% }
+[horizontal]: imagenes/horizontal.jpg "Siempre en horizontal" { width:auto; max-width:80% }
 ~
 
 ## 4. Estabiliza
 
 ~ Center
 ![estabiliza]
-[estabiliza]: imagenes/estabiliza.jpg "Estabiliza" { width:auto; max-width:100% }
+[estabiliza]: imagenes/estabiliza.jpg "Estabiliza" { width:auto; max-width:80% }
 ~
 
 ## 5. Cierra los ojos
 
 ~ Center
 ![escuchando]
-[escuchando]: imagenes/escuchando.jpg "Cierra los ojos" { width:auto; max-width:100% }
+[escuchando]: imagenes/escuchando.jpg "Cierra los ojos" { width:auto; max-width:80% }
 ~
 
 ## 6. Ilumina adecuadamente
@@ -83,7 +83,7 @@ Beamer Theme  : singapore
 
 ~ Center
 ![enfoque]
-[enfoque]: imagenes/enfoque.jpg "Recuerda enfocar" { width:auto; max-width:100% }
+[enfoque]: imagenes/enfoque.jpg "Recuerda enfocar" { width:auto; max-width:80% }
 ~
 
 ## 8. El encuadre perfecto
@@ -97,7 +97,7 @@ Beamer Theme  : singapore
 
 ~ Center
 ![repite]
-[repite]: imagenes/repite.jpg "No te conformes con la primera" { width:auto; max-width:100% }
+[repite]: imagenes/repite.jpg "No te conformes con la primera" { width:auto; max-width:80% }
 ~
 
 ## 10. No olvides realizar una prueba técnica
