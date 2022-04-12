@@ -17,6 +17,8 @@ Beamer Theme  : singapore
 .reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled {border-right-color: black;}
 .reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled:hover {border-right-color: grey;}
 .reveal .slide-number {color: black;}
+.reveal a:not(.image) {color: black; text-decoration: underline;}
+.reveal a:not(.image):hover {color: grey;}
 </style>
 
 [TITLE]
