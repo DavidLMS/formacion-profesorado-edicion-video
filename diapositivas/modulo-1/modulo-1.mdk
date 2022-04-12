@@ -1,6 +1,6 @@
 [INCLUDE=presentation]
 Title         : ![logo]
-Sub Title     : Módulo 1
+Sub Title     : 1. Cada fracción de segundo cuenta
 Author        : David Romero
 Affiliation   : CEP de Cádiz
 Email         : hola@davidlms.com
@@ -51,11 +51,11 @@ Beamer Theme  : singapore
 ## Edición en capas
 
 ~ Center
-![gif-video-imagenes2]
-[gif-video-imagenes2]: imagenes/layer1.jpg "Vídeo en movimiento" { width:auto; max-width:35% }
+![imagen-en-capas]
+[imagen-en-capas]: imagenes/layer1.jpg "Imagen en capas separadas" { width:auto; max-width:35% }
 
-![gif-video-imagenes1]
-[gif-video-imagenes1]: imagenes/layer2.jpg "Vídeo en movimiento" { width:auto; max-width:35% }
+![imagen-compuesta]
+[imagen-compuesta]: imagenes/layer2.jpg "Imagen compuesta" { width:auto; max-width:35% }
 
 ~
 
