@@ -1,6 +1,6 @@
 [INCLUDE=presentation]
 Title         : ![logo]
-Sub Title     : Módulo 3
+Sub Title     : 3. Artesanía audiovisual
 Author        : David Romero
 Affiliation   : CEP de Cádiz
 Email         : hola@davidlms.com
@@ -9,4 +9,50 @@ Beamer Theme  : singapore
 
 [logo]: imagenes/claqueta-abierta-transparente.png "logo" { width:auto; max-width:30% }
 
+<style>
+.reveal .controls div.navigate-down, .reveal .controls div.navigate-down.enabled {border-top-color: black;}
+.reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled {border-left-color: black;}
+.reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled:hover {border-left-color: grey;}
+.reveal .controls div.navigate-up, .reveal .controls div.navigate-up.enabled {border-bottom-color: black;}
+.reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled {border-right-color: black;}
+.reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled:hover {border-right-color: grey;}
+.reveal .slide-number {color: black;}
+.reveal a:not(.image) {color: black; text-decoration: underline;}
+.reveal a:not(.image):hover {color: grey;}
+</style>
+
 [TITLE]
+
+## ¿Por qué editar usando un <br> dispositivo móvil?
+
+
+## Ventajas de edición móvil
+
+- Fácil acceso a los clips grabados
+
+- Edición en cualquier lugar
+
+- Tendencia a la universalidad
+
+- Funciones suficientes para la mayoría de los proyectos
+
+- Efectos más sencillos de aplicar
+
+
+## Desventajas de edición móvil
+
+- Filtros, efectos y funciones poco personalizables
+
+- Mantenimiento futuro de los proyectos
+
+- Complicada cuando se necesita precisión
+
+- Más homogeneidad y menos creatividad
+
+
+## 
+
+~ Center
+![logo-capcut]
+[logo-capcut]: imagenes/logo-capcut.png "Logo CapCut" { width:80%; max-width:200% }
+~
