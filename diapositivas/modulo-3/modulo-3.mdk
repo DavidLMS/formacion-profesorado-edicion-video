@@ -91,6 +91,17 @@ Beamer Theme  : singapore
 ![logo-kdenlive]
 [logo-kdenlive]: imagenes/logo-kdenlive.png "Logo Kdenlive" { width:100%; max-width:200% } 
 
+## Algunos conceptos clave
+
+- Transcodificación
+
+- Proxy
+
+- Keyframe
+
+- LUT
+
+
 ## Y si mi equipo... ¿No me permite realizar el proyecto que quiero?
 
 
