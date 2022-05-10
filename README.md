@@ -13,10 +13,7 @@
     </a>
 </p>
 
-Repositorio para alojar los materiales del curso "Creación y edición de vídeos para su aplicación en el aula".
-
-Esta obra está bajo una
-[Licencia Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa].
+Repositorio para alojar los materiales del curso "Creación y edición de vídeos para su aplicación en el aula", realizado en el CEP de Cádiz durante los meses de abril-mayo de 2022 (10 horas presenciales y 5 horas en modalidad virtual).
 
 <p align="center"> <a href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="BY-SA">
@@ -55,3 +52,6 @@ Esta obra está bajo una
 ## [Para saber más](moodle/paginas/para-saber-mas.html)
 
 ## [Autoría y licencia](moodle/paginas/autoria-y-licencia.html)
+
+Todos los materiales generados están bajo una
+[Licencia Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa].
