@@ -37,15 +37,21 @@ Esta obra está bajo una
 ## Módulo 2 - Luces, cámara… ¡Acción!
 
 - [Diapositivas](diapositivas/modulo-2)
+- [Consejos para grabar vídeos con un dispositivo móvil](moodle/paginas/mod2-consejos-grabar-video-dispositivo-movil.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod2.md)
 
 ## Módulo 3 - Artesanía audiovisual
 
 - [Diapositivas](diapositivas/modulo-3)
+- [Bancos de recursos](moodle/paginas/mod3-bancos-recursos.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod3.md)
 
 ## Módulo 4 - Hollywood en mi aula
 
 - [Diapositivas](diapositivas/modulo-4)
+- [Ideas para la utilización de vídeos en el aula](moodle/paginas/mod4-ideas-utilizacion-videos-aula.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod4.md)
 
+## [Para saber más](moodle/paginas/para-saber-mas.html)
+
+## [Autoría y licencia](moodle/paginas/autoria-y-licencia.html)
