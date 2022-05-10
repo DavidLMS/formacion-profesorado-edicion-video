@@ -15,10 +15,6 @@
 
 Repositorio para alojar los materiales del curso "Creación y edición de vídeos para su aplicación en el aula", realizado en el CEP de Cádiz durante los meses de abril-mayo de 2022 (10 horas presenciales y 5 horas en modalidad virtual).
 
-<p align="center"> <a href="http://creativecommons.org/licenses/by-sa/4.0/">
-    <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="BY-SA">
-  </a> </p>
-
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
@@ -55,3 +51,7 @@ Repositorio para alojar los materiales del curso "Creación y edición de vídeo
 
 Todos los materiales generados están bajo una
 [Licencia Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa].
+
+<p align="center"> <a href="http://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="BY-SA">
+  </a> </p>
