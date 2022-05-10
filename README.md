@@ -28,8 +28,24 @@ Esta obra está bajo una
 
 ## [Guía del curso](moodle/paginas/guia-del-curso.html)
 
-## Módulo 1
+## Módulo 1 - Cada fracción de segundo cuenta
 
 - [Diapositivas](diapositivas/modulo-1)
+- [Herramientas de edición más populares](moodle/paginas/mod1-herramientas-edicion-video-mas-populares.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod1.md)
+
+## Módulo 2 - Luces, cámara… ¡Acción!
+
+- [Diapositivas](diapositivas/modulo-2)
+- [Enlaces externos](moodle/enlaces-externos/enlaces-mod2.md)
+
+## Módulo 3 - Artesanía audiovisual
+
+- [Diapositivas](diapositivas/modulo-3)
+- [Enlaces externos](moodle/enlaces-externos/enlaces-mod3.md)
+
+## Módulo 4 - Hollywood en mi aula
+
+- [Diapositivas](diapositivas/modulo-4)
+- [Enlaces externos](moodle/enlaces-externos/enlaces-mod4.md)
 
