@@ -1,7 +1,0 @@
-Fuentes
-
-advanced-timer.lua: https://github.com/cg2121
-
-countdown.mp4: propia, realizado en Kdenlive
-
-css-personalizado: propia
