@@ -1,4 +1,4 @@
-# Creación y edición de vídeos para su aplicación en el aula
+# Creación y edición de materiales audiovisuales en el aula
 
 ![logo][portada]
 
@@ -13,7 +13,7 @@
     </a>
 </p>
 
-Repositorio para alojar los materiales del curso "Creación y edición de vídeos para su aplicación en el aula", realizado en el CEP de Cádiz durante los meses de abril-mayo de 2022 (10 horas presenciales y 5 horas en modalidad virtual).
+Repositorio para alojar los materiales del curso "Creación y edición de materiales audiovisuales en el aula", realizado en el CEP de Cádiz durante el mes de marzo de 2023 (9 horas presenciales y 3 horas en modalidad virtual).
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
