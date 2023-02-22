@@ -23,27 +23,21 @@ Repositorio para alojar los materiales del curso "Creación y edición de materi
 
 ## Módulo 1 - Cada fracción de segundo cuenta
 
-- [Diapositivas](diapositivas/modulo-1)
+- [Diapositivas](diapositivas/modulo1.html)
 - [Herramientas de edición más populares](moodle/paginas/mod1-herramientas-edicion-video-mas-populares.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod1.md)
 
 ## Módulo 2 - Luces, cámara… ¡Acción!
 
-- [Diapositivas](diapositivas/modulo-2)
+- [Diapositivas](diapositivas/modulo2.html)
 - [Consejos para grabar vídeos con un dispositivo móvil](moodle/paginas/mod2-consejos-grabar-video-dispositivo-movil.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod2.md)
 
-## Módulo 3 - Artesanía audiovisual
+## Módulo 3 - Tu aula es tu estudio
 
-- [Diapositivas](diapositivas/modulo-3)
+- [Diapositivas](diapositivas/modulo3.html)
 - [Bancos de recursos](moodle/paginas/mod3-bancos-recursos.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod3.md)
-
-## Módulo 4 - Hollywood en mi aula
-
-- [Diapositivas](diapositivas/modulo-4)
-- [Ideas para la utilización de vídeos en el aula](moodle/paginas/mod4-ideas-utilizacion-videos-aula.html)
-- [Enlaces externos](moodle/enlaces-externos/enlaces-mod4.md)
 
 ## [Para saber más](moodle/paginas/para-saber-mas.html)
 
