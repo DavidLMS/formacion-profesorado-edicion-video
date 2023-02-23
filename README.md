@@ -37,6 +37,7 @@ Repositorio para alojar los materiales del curso "Creación y edición de materi
 
 - [Diapositivas](diapositivas/modulo3.html)
 - [Bancos de recursos](moodle/paginas/mod3-bancos-recursos.html)
+- [Ideas para la utilización de vídeos en el aula](moodle/paginas/mod3-ideas-utilizacion-videos-aula.html)
 - [Enlaces externos](moodle/enlaces-externos/enlaces-mod3.md)
 
 ## [Para saber más](moodle/paginas/para-saber-mas.html)
