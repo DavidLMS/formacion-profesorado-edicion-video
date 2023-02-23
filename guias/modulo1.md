@@ -1,4 +1,6 @@
-# Guías CapCut
+# Guías del módulo 1
+
+## CapCut
 
 * [Primera vez en CapCut](capcut-first-time.html) 
 * [Difuminar una cara](capcut-difuminar-cara.html)
