@@ -162,8 +162,20 @@ Note:
 
 Note:
 
-- Añadir texto y opciones. Texto a voz.
-- Añadir stickers y usarlos para seguimiento.
+- Añadir texto y opciones.
+- Añadir stickers.
+
+
+## Retoque PRO: Los fotogramas clave
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/keyframe.jpeg">
+
+Note:
+
+- Stickers que persiguen.
+- Cambio de velocidades o volumen.
+- Opacidad.
+- Ajustar.
 
 
 ## ¡Me lo llevo!
@@ -174,21 +186,40 @@ Note:
 
 - Crear portada.
 - Exportar.
+
+
+## Más opciones para empezar un proyecto en CapCut
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/options.jpeg">
+
+Note:
+
+- Cámara
+- Subtítulos
+- Mejorar
+- Autocut
+- Prompter
+
+
 ---
-## Tarea final
+## Tarea: Crea tu vídeo original
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/form.png">
+
+<small>https://forms.gle/MuNvZkMqSFCJks9y5</small>
 
 
 ## Guías de ayuda
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides-mod-1.png">
 
-<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/</small>
+<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/modulo1.html</small>
 ---
 ## Ticket de salida
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/qr-exit-ticket.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/qr-exit-ticket-1.png">
 
-<small>link wooclap</small>
+<small>https://app.wooclap.com/FNRJUJ/questionnaires/63fd2ff6a3378ec7d4f3a0b1</small>
 ---
 
 <!-- .slide: data-background-video="../imagenes/video-edition.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
