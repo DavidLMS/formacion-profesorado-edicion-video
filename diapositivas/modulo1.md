@@ -199,8 +199,6 @@ Note:
 - Mejorar
 - Autocut
 - Prompter
-
-
 ---
 ## Tarea: Crea tu vídeo original
 
