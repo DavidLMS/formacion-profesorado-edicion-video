@@ -1,5 +1,15 @@
 <img class="r-stretch" style="text-align: center" src="../imagenes/logos/logo.png">
 ---
+## Bienvenida
+
+¿Por qué hacer este curso?<!-- .element: class="fragment" -->
+
+Sesión 1: Introducción a la edición y crea un vídeo con tu móvil <!-- .element: class="fragment" -->
+
+Sesión 2: Planificación y edición de audio con tu móvil <!-- .element: class="fragment" -->
+
+Sesión 3: Recursos, efectos especiales y aplicación en el aula <!-- .element: class="fragment" -->
+---
 ## ¿Qué es un vídeo?
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/race_horse_animated.gif">
@@ -154,28 +164,6 @@ Note:
 
 - Añadir texto y opciones. Texto a voz.
 - Añadir stickers y usarlos para seguimiento.
-
-
-## Una mijita de retoque
-
-<img class="r-stretch" style="text-align: center" src="../imagenes/effects.png">
-
-Note:
-
-- Pestaña de efectos (vídeo, corporales) y filtros (ajustar). Hacerlo con sentido.
-- Eliminar fondo
-- Superposiciones (la que está debajo por arriba) con fundidos
-
-
-## ¿Qué es eso que se escucha?
-
-<img class="r-stretch" style="text-align: center" src="../imagenes/sounds.png">
-
-Note:
-
-- Agregar sonidos en Audio.
-- Al seleccionar audio: volumen, desvanecer (fade in-out), dividir, velocidad y corte paralelo (genera puntos en función de melodía o ritmo).
-- Texto a voz
 
 
 ## ¡Me lo llevo!
