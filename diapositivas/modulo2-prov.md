@@ -9,15 +9,7 @@
 <small>capcut.com</small>
 
 
-## ¿Qué es eso que se escucha?
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/sounds.png">
-
-Note:
-
-- Agregar sonidos en Audio.
-- Al seleccionar audio: volumen, desvanecer (fade in-out), dividir, velocidad y corte paralelo (genera puntos en función de melodía o ritmo).
-- Texto a voz
 ---
 ## Tarea final
 
