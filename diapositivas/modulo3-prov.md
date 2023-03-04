@@ -30,9 +30,9 @@ Note:
 ---
 ## Ticket de salida
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/qr-exit-ticket.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/qr-exit-ticket-3.png">
 
-<small>link wooclap</small>
+<small>https://app.wooclap.com/FNRJUJ/questionnaires/63fd30199aa702bd94eefe88</small>
 ---
 
 <!-- .slide: data-background-video="../imagenes/video-edition.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
