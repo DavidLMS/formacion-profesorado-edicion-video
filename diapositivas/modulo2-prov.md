@@ -69,18 +69,69 @@ Las personas <!-- .element: class="fragment" -->
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/prueba.jpg">
 ---
+## ¡Vamos a grabar!
+
+Investiga los ajustes básicos de tu cámara y graba un diálogo en un fondo de chroma
+---
 ## Edición básica de sonido
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/audio-edit.png">
 
 
-## Web edición sonido
+## Algunas claves
+
+Nada como hacer una buena grabación <!-- .element: class="fragment" -->
+
+Más difícil de modificar <!-- .element: class="fragment" -->
+
+Falta de aplicaciones completas y gratuitas <!-- .element: class="fragment" -->
+
+
+## Edición de sonido en la web
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/audiomass.png">
+
+<small>https://audiomass.co</small>
 ---
 ## Hands on CapCut
 
 <img class="r-stretch" style="text-align: center" src="https://p16-vco-sg.ibyteimg.com/tos-alisg-i-hcfj2cabi8-sg/47e17bde67b9af9aa9f549666bdf2c6b.png~tplv-hcfj2cabi8-webp.image">
 
 <small>capcut.com</small>
+
+
+## Recordemos
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/sounds.PNG">
+
+Note:
+
+Añadir sonidos, volumen y desvanecer, ritmos y texto a voz
+
+
+## Me llevo el audio de tu vídeo
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/extraido.png">
+
+
+## Efectos propios de una sitcom
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/sonidos.png">
+
+
+## Me escucho raro
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/voz.png">
+
+
+## Quiero escucharme mejor
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/ruido.png">
+
+
+## Piensa en todos/as
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/subtitulos.png">
 ---
 ## Herramientas que nos salvan la vida en la edición de audio
 
@@ -94,11 +145,18 @@ Las personas <!-- .element: class="fragment" -->
 <small>https://www.how2shout.com/url-online-video-downloader/</small>
 
 
-## Limpia la voz
+## Separa la música
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/vocal-remover.png">
 
 <small>https://vocalremover.org</small>
+
+
+## Limpia la voz
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/podcasts.png">
+
+<small>https://podcast.adobe.com/enhance</small>
 
 
 ## Genera una voz
@@ -130,13 +188,14 @@ Las personas <!-- .element: class="fragment" -->
 ---
 ## Tarea final
 
-¿Grabación?¿Se hace antes?
+Mejora el sonido de tu grabación, añade efectos y activa los subtítulos
+
 
 ## Guías de ayuda
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides-mod-2.png">
 
-<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/</small>
+<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/modulo2.html</small>
 ---
 ## Ticket de salida
 
