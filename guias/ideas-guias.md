@@ -7,7 +7,13 @@
 
 ## Módulo 2
 
+- Extraer audio de vídeo
+- Añadir Efectos de audio
+- Cambio de voz
+- Reducción de ruido en capcut
+- Agregar subtítulos
 - Descargar vídeo de youtube y extraer audio en CapCut (https://www.how2shout.com/url-online-video-downloader/)
+- Limpieza adobe podcasts
 - Separar música y voz con IA
 
 ## Módulo 3
