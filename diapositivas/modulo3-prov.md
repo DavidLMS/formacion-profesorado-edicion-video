@@ -2,6 +2,8 @@
 ---
 ## ¿Cómo crees que puede usarse el vídeo en el aula?
 
+<img class="r-stretch" style="text-align: center" src="../imagenes/logos/kids_making_a_video_with_their_smartphones.png">
+
 
 ## Algunas propuestas de uso del vídeo en el aula
 
@@ -30,6 +32,8 @@ Presentaciones y ensayos <!-- .element: class="fragment" -->
 
 ## ¿Qué debo tener en cuenta para difundir un vídeo?
 
+<img class="r-stretch" style="text-align: center" src="../imagenes/a_white_pidgeon_flying_and_carrying_a_tape_reel_with_its_beak.png">
+
 
 ## Legalidad vigente
 
@@ -48,6 +52,8 @@ No se puede difundir sin consentimiento explícito de esa grabación concreta <!
 
 
 ## ¿Qué opciones conoces para añadir interactividad a tus vídeos?
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/a_person_touching_a_screen_playing_a_video.png">
 
 
 ## 
@@ -117,6 +123,8 @@ Recuerda: ¡Prueba antes! <!-- .element: class="fragment" -->
 ---
 ## ¿Conoces bancos de recursos?
 
+<img class="r-stretch" style="text-align: center" src="../imagenes/.png">
+
 
 ## Licencias Creative Commons
 
@@ -167,6 +175,8 @@ Recuerda: ¡Prueba antes! <!-- .element: class="fragment" -->
 ---
 ## ¿Bienvenidos al futuro?
 
+<img class="r-stretch" style="text-align: center" src="../imagenes/the_future_of_video_editing_using_AI_and_VR.png">
+
 
 ## Tecnologías llamadas a cambiarlo todo
 
@@ -183,6 +193,8 @@ IA (Inteligencia Artificial) <!-- .element: class="fragment" -->
 
 
 ## Inteligencias Artificiales
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/a_reel_of_AI_images_generative.png">
 
 
 ## Deepfakes
