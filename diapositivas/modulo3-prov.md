@@ -29,6 +29,8 @@ Presentaciones y ensayos <!-- .element: class="fragment" -->
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/cornell-notes.png">
 
+<small>https://es.wikipedia.org/wiki/Notas_Cornell</small>
+
 
 ## ¿Qué debo tener en cuenta para difundir un vídeo?
 
@@ -49,6 +51,8 @@ No se puede difundir sin consentimiento explícito de esa grabación concreta <!
 ## Retroalimentación de una actividad de edición de vídeo
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/anno.png">
+
+<small>https://anno.so</small>
 
 
 ## ¿Qué opciones conoces para añadir interactividad a tus vídeos?
@@ -90,9 +94,16 @@ Preparadas para el futuro <!-- .element: class="fragment" -->
 
 Note:
 
-- Pestaña de efectos (vídeo, corporales) y filtros (ajustar). Hacerlo con sentido.
-- Eliminar fondo
-- Superposiciones (la que está debajo por arriba) con fundidos
+- Superposiciones
+- Máscara
+- Filtros
+- Estilo (solo caras)
+- Retoque (no utilizar)
+
+
+## Aplicación del efecto croma en CapCut
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/capcut-croma.jpeg">
 
 
 ## Algunos consejos sobre el uso del croma
@@ -106,11 +117,6 @@ Cuidado con las sombras <!-- .element: class="fragment" -->
 Nunca es lo suficientemente grande <!-- .element: class="fragment" -->
 
 Recuerda: ¡Prueba antes! <!-- .element: class="fragment" -->
-
-
-## Aplicación del efecto croma en CapCut
-
-<img class="r-stretch" style="text-align: center" src="../imagenes/capcut-croma.jpeg">
 
 
 ## Algunos servicios para eliminar el fondo
@@ -185,11 +191,18 @@ XR (Realidad extendida) <!-- .element: class="fragment" -->
 IA (Inteligencia Artificial) <!-- .element: class="fragment" -->
 
 
-## XR - VR y AR
+## XR - AR y VR
 
 [Diciembre 2020](https://www.youtube.com/watch?v=jtYxJnvyqtg)
 
 [Mayo 2021](https://www.youtube.com/watch?v=KhoyKABFvzA)
+
+
+Sustituir por:
+
+CamTrackAR (video de Mandalorian antes?)
+
+https://www.flipsidexr.com
 
 
 ## Inteligencias Artificiales
@@ -197,19 +210,17 @@ IA (Inteligencia Artificial) <!-- .element: class="fragment" -->
 <img class="r-stretch" style="text-align: center" src="../imagenes/a_reel_of_AI_images_generative.png">
 
 
-## Deepfakes
+## Algunos modelos clave
 
-[Demo](https://www.youtube.com/watch?v=dVycTJwEKa4)
+[GPT-4](https://www.xataka.com/nuevo/gpt-4-que-cuando-sale-como-funciona-toda-informacion) <!-- .element: class="fragment" -->
 
+[VALL-E y VALL-E X](https://www.fayerwayer.com/internet/2023/03/10/vall-e-la-inteligencia-artificial-de-microsoft-que-traduce-tu-voz-a-cualquier-idioma/) <!-- .element: class="fragment" -->
 
-## GPT-3
+[Deep Story](https://blog.myheritage.com/2022/03/introducing-deepstory-give-voice-to-your-family-stories/) <!-- .element: class="fragment" -->
 
-[Ejemplos de aplicaciones](https://beta.openai.com/examples)
+[DALL·E 2 / Stable Diffusion / Midjourney](https://medium.com/mlearning-ai/dall-e-2-vs-midjourney-vs-stable-diffusion-8eb9eb7d20be) <!-- .element: class="fragment" -->
 
-
-## DAL·LE 2
-
-[Echa un vistazo a sus creaciones](https://openai.com/dall-e-2/)
+[Make-A-Video](https://makeavideo.studio) <!-- .element: class="fragment" -->
 
 
 ## Expectativa
@@ -234,6 +245,16 @@ Tu navegador no soporta la etiqueta de reproducción de vídeos.
 </video>
 
 <small>[Fuente: @DotCSV](https://twitter.com/DotCSV/status/1520097583930224640)</small>
+
+
+## ¿Qué podremos hacer pronto?
+
+Imagina un vídeo...
+
+
+## ¿Y las grabaciones? ¿Dónde queda el arte?
+
+https://wonderdynamics.com
 ---
 ## Tarea final
 
