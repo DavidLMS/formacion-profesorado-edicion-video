@@ -123,7 +123,7 @@ Recuerda: ¡Prueba antes! <!-- .element: class="fragment" -->
 ---
 ## ¿Conoces bancos de recursos?
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/a_bench_full_of_image_frames_videos_and_audios.png">
 
 
 ## Licencias Creative Commons
