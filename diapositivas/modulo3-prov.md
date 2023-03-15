@@ -2,7 +2,7 @@
 ---
 ## ¿Cómo crees que puede usarse el vídeo en el aula?
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/logos/kids_making_a_video_with_their_smartphones.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/kids_making_a_video_with_their_smartphones.png">
 
 
 ## Algunas propuestas de uso del vídeo en el aula
@@ -90,7 +90,7 @@ Preparadas para el futuro <!-- .element: class="fragment" -->
 
 ## ¡No me pises!
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/superposicion.PNG">
 
 Note:
 
@@ -99,7 +99,7 @@ Note:
 
 ## Ponte la máscara
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/mascara.PNG">
 
 Note:
 
@@ -108,7 +108,7 @@ Note:
 
 ## ¿Te has hecho algo?
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/filtro.PNG">
 
 Note:
 
@@ -117,25 +117,26 @@ Note:
 
 ## Me recuerda a ti
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/estilo.PNG">
 
 Note:
 
-- Estilo (solo caras)
+- Estilo (solo fotos, excepto los que pone vídeo)
 
 
-## Una mijita de retoque
+## ¡Vaya efecto!
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/efecto.PNG">
 
 Note:
 
-- Retoque (no utilizar)
+- Efectos
+- Si se selecciona vídeo, aparece Retoque (no utilizar)
 
 
-## Aplicación del efecto croma en CapCut
+## Adiós fondo
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/capcut-croma.jpeg">
+<img class="r-stretch" style="text-align: center" src="../imagenes/fondo.PNG">
 
 
 ## Algunos consejos sobre el uso del croma
@@ -242,19 +243,6 @@ https://www.flipsidexr.com
 <img class="r-stretch" style="text-align: center" src="../imagenes/a_reel_of_AI_images_generative.png">
 
 
-## Algunos modelos clave
-
-[GPT-4](https://www.xataka.com/nuevo/gpt-4-que-cuando-sale-como-funciona-toda-informacion) <!-- .element: class="fragment" -->
-
-[VALL-E y VALL-E X](https://www.fayerwayer.com/internet/2023/03/10/vall-e-la-inteligencia-artificial-de-microsoft-que-traduce-tu-voz-a-cualquier-idioma/) <!-- .element: class="fragment" -->
-
-[Deep Story](https://blog.myheritage.com/2022/03/introducing-deepstory-give-voice-to-your-family-stories/) <!-- .element: class="fragment" -->
-
-[DALL·E 2 / Stable Diffusion / Midjourney](https://medium.com/mlearning-ai/dall-e-2-vs-midjourney-vs-stable-diffusion-8eb9eb7d20be) <!-- .element: class="fragment" -->
-
-[Make-A-Video](https://makeavideo.studio) <!-- .element: class="fragment" -->
-
-
 ## Expectativa
 
 <img class="r-stretch" style="text-align: center" src="../imagenes/Intelligence-expectativa.jpg">
@@ -285,10 +273,15 @@ Imagina un vídeo...
 
 
 [GPT-4](https://openai.com/product/gpt-4) genera el texto
+
 [VALL-E](https://valle-demo.github.io) clona tu voz (y a varios idiomas gracias a [VALL-E X](https://vallex-demo.github.io))
+
 [DeepStory](https://www.myheritage.es/deepstory) o [Synthesia.io](https://www.synthesia.io) da vida a tu avatar
+
 [DALL-E](https://openai.com/product/dall-e-2)/[Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)/[Midjourney](https://www.midjourney.com) genera las imágenes
+
 [ControlNet](https://github.com/lllyasviel/ControlNet) modifica las imágenes
+
 [Descript](https://www.descript.com) modifica tu discurso
 
 
