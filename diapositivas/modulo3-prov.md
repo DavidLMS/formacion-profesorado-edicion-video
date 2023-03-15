@@ -284,6 +284,14 @@ Tu navegador no soporta la etiqueta de reproducción de vídeos.
 Imagina un vídeo...
 
 
+[GPT-4](https://openai.com/product/gpt-4) genera el texto
+[VALL-E](https://valle-demo.github.io) clona tu voz (y a varios idiomas gracias a [VALL-E X](https://vallex-demo.github.io))
+[DeepStory](https://www.myheritage.es/deepstory) o [Synthesia.io](https://www.synthesia.io) da vida a tu avatar
+[DALL-E](https://openai.com/product/dall-e-2)/[Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)/[Midjourney](https://www.midjourney.com) genera las imágenes
+[ControlNet](https://github.com/lllyasviel/ControlNet) modifica las imágenes
+[Descript](https://www.descript.com) modifica tu discurso
+
+
 ## ¿Y las grabaciones? ¿Dónde queda el arte?
 
 https://wonderdynamics.com
