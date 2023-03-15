@@ -88,16 +88,48 @@ Preparadas para el futuro <!-- .element: class="fragment" -->
 <small>capcut.com</small>
 
 
-## Una mijita de retoque
+## ¡No me pises!
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/effects.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
 
 Note:
 
 - Superposiciones
+
+
+## Ponte la máscara
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+
+Note:
+
 - Máscara
+
+
+## ¿Te has hecho algo?
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+
+Note:
+
 - Filtros
+
+
+## Me recuerda a ti
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+
+Note:
+
 - Estilo (solo caras)
+
+
+## Una mijita de retoque
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/HACER.png">
+
+Note:
+
 - Retoque (no utilizar)
 
 
