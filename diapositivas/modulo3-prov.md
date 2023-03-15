@@ -226,16 +226,12 @@ IA (Inteligencia Artificial) <!-- .element: class="fragment" -->
 
 ## XR - AR y VR
 
-[Diciembre 2020](https://www.youtube.com/watch?v=jtYxJnvyqtg)
+Del cine
 
-[Mayo 2021](https://www.youtube.com/watch?v=KhoyKABFvzA)
+[a casa](https://player.vimeo.com/video/539044416?autoplay=1&color=2d67cc&autopause=0&loop=1&muted=1&title=0&portrait=0&byline=0#t=) ([CamTrackAR](https://fxhome.com/product/camtrackar))
 
 
-Sustituir por:
-
-CamTrackAR (video de Mandalorian antes?)
-
-https://www.flipsidexr.com
+Y también [completamente virtual](https://www.youtube.com/watch?v=MKBVNImcM6Q)
 
 
 ## Inteligencias Artificiales
@@ -264,7 +260,7 @@ https://www.flipsidexr.com
 Tu navegador no soporta la etiqueta de reproducción de vídeos.
 </video>
 
-<small>[Fuente: @DotCSV](https://twitter.com/DotCSV/status/1520097583930224640)</small>
+<small>[Fuente: @DotCSV](https://twitter.com/DotCSV/status/1520097583930224640) Abril 2022</small>
 
 
 ## ¿Qué podremos hacer pronto?
@@ -287,7 +283,7 @@ Imagina un vídeo...
 
 ## ¿Y las grabaciones? ¿Dónde queda el arte?
 
-https://wonderdynamics.com
+[El CGI al alcance de todos/as](https://player.vimeo.com/video/805754885?portrait=0&byline=0&title=0)
 ---
 ## Tarea final
 
@@ -296,9 +292,9 @@ Realización y solución de dudas de la tarea obligatoria del curso
 
 ## Guías de ayuda
 
-<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides.png">
+<img class="r-stretch" style="text-align: center" src="../imagenes/qr-guides-mod-3.png">
 
-<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/</small>
+<small>https://davidlms.github.io/formacion-profesorado-edicion-video/guias/modulo3.html</small>
 ---
 ## Sobre los materiales del curso
 
@@ -310,6 +306,10 @@ Repositorio y página web <!-- .element: class="fragment" -->
 
 
 ## Descarga de los materiales
+
+<img class="r-stretch" style="text-align: center" src="../imagenes/download.png">
+
+<small>https://github.com/DavidLMS/formacion-profesorado-edicion-video</small>
 ---
 ## Ticket de salida
 
