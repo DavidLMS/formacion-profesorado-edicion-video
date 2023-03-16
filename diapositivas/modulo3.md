@@ -256,7 +256,7 @@ Y también [completamente virtual](https://www.youtube.com/watch?v=MKBVNImcM6Q)
 ## Un ejemplo de aplicación
   
 <video width="640" height="480" controls>
-  <source src="imagenes/aplicacion-ia-video-dotcsv.mp4" type="video/mp4">
+  <source src="../imagenes/aplicacion-ia-video-dotcsv.mp4" type="video/mp4">
 Tu navegador no soporta la etiqueta de reproducción de vídeos.
 </video>
 
